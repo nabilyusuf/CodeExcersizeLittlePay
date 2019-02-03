@@ -1,0 +1,74 @@
+[
+  {
+    "Started": "Sun Dec 31 13:00:00 AEDT 2017",
+    "Finished": "Sun Dec 31 13:05:00 AEDT 2017",
+    "DurationSecs": 300,
+    "FromStopId": "Stop1",
+    "ToStopId": "Stop2",
+    "ChargeAmount": 3.25,
+    "CompanyId": "Company1",
+    "BusID": "Bus37",
+    "PAN": 5500005555555559,
+    "Status": "complete"
+  },
+  {
+    "Started": "Sun Dec 31 13:10:00 AEDT 2017",
+    "Finished": "Sun Dec 31 13:20:00 AEDT 2017",
+    "DurationSecs": 600,
+    "FromStopId": "Stop2",
+    "ToStopId": "Stop3",
+    "ChargeAmount": 5.5,
+    "CompanyId": "Company1",
+    "BusID": "Bus33",
+    "PAN": 5500005555555559,
+    "Status": "complete"
+  },
+  {
+    "Started": "Sun Dec 31 13:25:00 AEDT 2017",
+    "Finished": "Sun Dec 31 13:45:00 AEDT 2017",
+    "DurationSecs": 1200,
+    "FromStopId": "Stop3",
+    "ToStopId": "Stop1",
+    "ChargeAmount": 7.3,
+    "CompanyId": "Company1",
+    "BusID": "Bus38",
+    "PAN": 5500005555555559,
+    "Status": "complete"
+  },
+  {
+    "Started": "Sun Dec 31 13:01:00 AEDT 2017",
+    "Finished": "Sun Dec 31 13:07:00 AEDT 2017",
+    "DurationSecs": 360,
+    "FromStopId": "Stop1",
+    "ToStopId": "Stop2",
+    "ChargeAmount": 3.25,
+    "CompanyId": "Company1",
+    "BusID": "Bus37",
+    "PAN": 122000000000003,
+    "Status": "complete"
+  },
+  {
+    "Started": "Sun Dec 31 13:10:00 AEDT 2017",
+    "Finished": "",
+    "DurationSecs": 0,
+    "FromStopId": "Stop2",
+    "ToStopId": "unknown",
+    "ChargeAmount": 5.5,
+    "CompanyId": "Company1",
+    "BusID": "Bus33",
+    "PAN": 122000000000003,
+    "Status": "incomplete"
+  },
+  {
+    "Started": "Sun Dec 31 13:15:00 AEDT 2017",
+    "Finished": "Sun Dec 31 13:16:00 AEDT 2017",
+    "DurationSecs": 60,
+    "FromStopId": "Stop2",
+    "ToStopId": "Stop2",
+    "ChargeAmount": 0,
+    "CompanyId": "Company1",
+    "BusID": "Bus33",
+    "PAN": 122000000000003,
+    "Status": "cancelled"
+  }
+]

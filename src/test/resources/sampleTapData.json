@@ -1,0 +1,101 @@
+[
+  {
+    "ID": 1,
+    "DateTimeUTC": "22-01-2018 13:00:00",
+    "TapType": "ON",
+    "StopId": "Stop1",
+    "CompanyId": "Company1",
+    "BusID": "Bus37",
+    "PAN": 5500005555555559
+  },
+  {
+    "ID": 2,
+    "DateTimeUTC": "22-01-2018 13:05:00",
+    "TapType": "OFF",
+    "StopId": "Stop2",
+    "CompanyId": "Company1",
+    "BusID": "Bus37",
+    "PAN": 5500005555555559
+  },
+  {
+    "ID": 3,
+    "DateTimeUTC": "22-01-2018 13:01:00",
+    "TapType": "ON",
+    "StopId": "Stop1",
+    "CompanyId": "Company1",
+    "BusID": "Bus37",
+    "PAN": 122000000000003
+  },
+  {
+    "ID": 4,
+    "DateTimeUTC": "22-01-2018 13:07:00",
+    "TapType": "OFF",
+    "StopId": "Stop2",
+    "CompanyId": "Company1",
+    "BusID": "Bus37",
+    "PAN": 122000000000003
+  },
+  {
+    "ID": 5,
+    "DateTimeUTC": "22-01-2018 13:10:00",
+    "TapType": "ON",
+    "StopId": "Stop2",
+    "CompanyId": "Company1",
+    "BusID": "Bus33",
+    "PAN": 5500005555555559
+  },
+  {
+    "ID": 6,
+    "DateTimeUTC": "22-01-2018 13:20:00",
+    "TapType": "OFF",
+    "StopId": "Stop3",
+    "CompanyId": "Company1",
+    "BusID": "Bus33",
+    "PAN": 5500005555555559
+  },
+  {
+    "ID": 7,
+    "DateTimeUTC": "22-01-2018 13:10:00",
+    "TapType": "ON",
+    "StopId": "Stop2",
+    "CompanyId": "Company1",
+    "BusID": "Bus33",
+    "PAN": 122000000000003
+  },
+  {
+    "ID": 8,
+    "DateTimeUTC": "22-01-2018 13:45:00",
+    "TapType": "OFF",
+    "StopId": "Stop1",
+    "CompanyId": "Company1",
+    "BusID": "Bus38",
+    "PAN": 5500005555555559
+  },
+  {
+    "ID": 9,
+    "DateTimeUTC": "22-01-2018 13:25:00",
+    "TapType": "ON",
+    "StopId": "Stop3",
+    "CompanyId": "Company1",
+    "BusID": "Bus38",
+    "PAN": 5500005555555559
+  },
+  {
+    "ID": 10,
+    "DateTimeUTC": "22-01-2018 13:15:00",
+    "TapType": "ON",
+    "StopId": "Stop2",
+    "CompanyId": "Company1",
+    "BusID": "Bus33",
+    "PAN": 122000000000003
+  },
+  {
+    "ID": 11,
+    "DateTimeUTC": "22-01-2018 13:16:00",
+    "TapType": "OFF",
+    "StopId": "Stop2",
+    "CompanyId": "Company1",
+    "BusID": "Bus33",
+    "PAN": 122000000000003
+  }
+]
